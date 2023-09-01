@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/0.png</file>
+        <file>icon/1.png</file>
+        <file>icon/2.png</file>
+        <file>icon/3.png</file>
+        <file>icon/4.png</file>
+        <file>icon/5.png</file>
+        <file>icon/6.png</file>
+        <file>icon/7.png</file>
+        <file>icon/8.png</file>
+        <file>icon/9.png</file>
+        <file>icon/10.png</file>
+        <file>icon/11.png</file>
+        <file>icon/12.png</file>
+        <file>icon/13.png</file>
+        <file>icon/14.png</file>
+        <file>icon/15.png</file>
+        <file>icon/16.png</file>
+        <file>icon/330822.png</file>
+        <file>icon/abc.png</file>
+        <file>icon/bg.png</file>
+        <file>icon/bg_43.png</file>
+        <file>icon/handle.png</file>
+        <file>icon/handle2.png</file>
+        <file>icon/nextbtn.png</file>
+        <file>icon/nextbtn_p.png</file>
+        <file>icon/page1.png</file>
+        <file>icon/page2.png</file>
+        <file>icon/play.png</file>
+        <file>icon/play_p.png</file>
+        <file>icon/previousbtn.png</file>
+        <file>icon/previousbtn_p.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/stop_p.png</file>
+    </qresource>
+</RCC>
